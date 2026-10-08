@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio.robsonwebstudio.com/sitemap.xml
+Sitemap: https://darrenrosbon.github.io/darren-portfolio-site/sitemap.xml
